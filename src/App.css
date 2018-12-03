@@ -30,3 +30,8 @@
     transform: rotate(360deg);
   }
 }
+@media screen and (max-width: 1028px) { 
+    App {
+        width:50%;
+    }
+}
